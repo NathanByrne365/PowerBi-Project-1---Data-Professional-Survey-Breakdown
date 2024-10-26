@@ -1,4 +1,4 @@
-# PowerBi-Project1
+# PowerBi Project 1 - Data Professional Survey Breakdown
 PowerBi Project 1
 
 This Project is based off the following Youtube Tutorial
